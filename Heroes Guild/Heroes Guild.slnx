@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Engine/Engine.csproj" Id="2bb6bad1-9681-4d9d-abf8-ef75f85a34e9" />
+  <Project Path="Heroes Guild.csproj" Id="14433936-00ab-4d39-9e23-8503b0724c9b" />
+</Solution>
